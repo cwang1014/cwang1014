@@ -1,6 +1,6 @@
 ### Hi there! I'm Curtis Wang 👋
 
-<img src="https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 <!--
 **cwang1014/cwang1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
