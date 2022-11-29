@@ -1,7 +1,7 @@
 ## Hi there! I'm Curtis Wang 👋
 
-<img src="https://img.shields.io/badge/linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/cwang1014-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/cwang1014-181717?style=flat-square&logo=github&logoColor=white"/>
 
 <!--
 **cwang1014/cwang1014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
