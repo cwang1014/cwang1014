@@ -4,7 +4,7 @@
 
 ### I am a Full Stack Developer
 - 📍 Based in Los Angeles, CA
-- 👨‍💻 Currently looking for employment
+- 👨‍💻 Open to exploring new roles
 - 👨 Pronouns: he/him/his
 
 ### Languages & Tools
